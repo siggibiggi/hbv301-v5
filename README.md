@@ -5,9 +5,11 @@ Setjið ykkar eigin texta um **verkefnið ykkar** og takið út eða aðlagið t
 
 ## Nafn kerfis
 
-Húa
+HÚA
 
 ## Stutt lýsing á kerfi 
+
+HÚA er sameinaður samskiptavettvangur fyrir nemendur og kennara í Háskóla Íslands. Kerfið sameinar spjall, hópsímtöl, tilkynningar og hópavinnu í einu umhverfi.
 
 ## Hópmeðlimir 
 
