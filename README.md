@@ -5,10 +5,13 @@ Setjið ykkar eigin texta um **verkefnið ykkar** og takið út eða aðlagið t
 
 ## Nafn kerfis
 
+Húa
+
 ## Stutt lýsing á kerfi 
 
 ## Hópmeðlimir 
 
+Dagbjört Freyja og Sigurður
 
 ## Yfirlit 
 
