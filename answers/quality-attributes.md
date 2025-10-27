@@ -10,10 +10,7 @@ Veljið eina kröfu og lýsið henni í sér skrá með PLanguage sniði
 | 1. Reliability| Kerfið á að virka stöðugt og sjálfvista gögn á 10 sekúndna fresti | Það sem hópar vinna saman í verkefnum í rauntíma er mikilvægt að gögn tapist ekki og kerfið sé stöðugt. |
 | 2. Usability | Kerfið skal vera auðvelt í notkun og krefjast lágmarks þjálfunar fyrir nýja notendur. | Þar sem notendur eru bæði kennarar og nemendur með mismunandi tæknikunnáttu er mikilvægt að hafa einfalt og skýrt viðmót sem eykur ánægju og dregur úr villum. |
 | 3. Security | Aðeins skráðir notendur með HÍ aðgang skulu hafa aðgang að kerfinu. | Þetta tryggir að trúnaðargögm og hópaverkefni séu varin gegn utanaðkomandi aðgangi. |
-| 4. Usability | Baseline: ekki vitað
-Target: 95% af nýjum nemendum geta notað Húa án ytri hjálpar
-Scale: Árangurshlutfall (% af nemendum)
-Observation Method: Kennarar skila inn hvað þeir áætla að þeir hafi þurft að hjálpa mörgum í fyrstu viku, og með hvað | Margir nýir nemendur á hverri önn, ekki hægt að yfirsjá öllum |
+| 4. Usability | Baseline: ekki vitað  Target: 95% af nýjum nemendum geta notað Húa án ytri hjálpar  Scale: Árangurshlutfall (% af nemendum)  Observation Method: Kennarar skila inn hvað þeir áætla að þeir hafi þurft að hjálpa mörgum í fyrstu viku, og með hvað | Margir nýir nemendur á hverri önn, ekki hægt að yfirsjá öllum |
 | 5. Reliability | Kerfið ætti að vera uppi allan daginn alla virka daga | Kennarar og nemendur munu reiða sig á kerfið |
 
 ## Innri (3)
