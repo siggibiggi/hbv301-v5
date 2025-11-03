@@ -1,6 +1,6 @@
 # Árekstrapör (3)
 
-## Par 1: <A> vs. <B>
+## Par 1: Security vs. Usability
 - **Árekstur (2–3 setningar):** …
 - **Forgangsröðun og rök:** …
 
