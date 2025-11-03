@@ -6,55 +6,48 @@
 ---
 
 ## Merkimiði (TAG)
-Einkvæmt auðkenni gæðakröfunnar.  
-**Dæmi:** `Performance.Report.ResponseTime`
+
+Usability.Nemendur.FyrstaVika
 
 ---
 
 ## Tilgangur / Ásetningur (AMBITION)
-Lýsir **tilgangi** eða **ástæðu** fyrir kröfunni — hvað hún á að bæta, tryggja eða hámarka.  
-**Dæmi:** Kerfið skal bregðast hratt við þegar notandi biður um að mynda skýrslu.
+
+Kerfið Húa þarf að vera leiðandi fyrir nýja nemendum, svo þeir geti byrjað að nota það sem fyrst með (vonandi) engri hjálp frá kennurum
 
 ---
 
 ## Mælikvarði (SCALE)
-Skilgreinir **hvað er mælt** og í **hvaða mælieiningum**.  
-**Dæmi:** Sekúndur sem líða frá því að notandi sendir beiðni þar til skýrslan byrjar að birtast.
+
+Árangurshlutfall, % af nýjum nemendum
 
 ---
 
 ## Mælir / Mæliaðferð (METER)
-Lýsir **hvernig** eða **hvar** gæðaeiginleikinn er mældur og hvaða aðferð er notuð.  
-**Dæmi:** Stoppklukkupróf á 30 dæmigerðum skýrslum samkvæmt skilgreindu notkunarferli.
+
+Létt skýrsla frá kennurum, þar sem hægt er að fylla mest inn, gefin inn í byrjun viku 2
 
 ---
 
 ## Markmið (GOAL)
-Lágmarksgildi sem **verður að nást** til að kröfunni sé fullnægt.  
-**Dæmi:** 95% allra skýrslna skulu byrja að birtast innan **8 sekúndna**.  
-*(Hagsmunaaðili: Skrifstofustjóri útibús)*
+
+95% af nemendum þurftu ekki hjálp. Baseline ekki vituð
 
 ---
 
 ## Æskilegt (STRETCH)
-Æskilegt frammistöðugildi sem teymið reynir að ná.  
-**Dæmi:** Forskilgreindar skýrslur innan 2 sekúndna, allar skýrslur innan 5 sekúndna.
+
+98% af nemendum þurftu ekki hjálp
 
 ---
 
 ## Óska (WISH)
-Gildi í besta heimi — markmið sem væri frábært að ná, en ekki krafa.  
-**Dæmi:** Allar skýrslur innan 1,5 sekúndna.
+
+100% af nemendum þurftu ekki hjálp
 
 ---
 
 ## Grunnkerfi (BASE PLATFORM)
-Upplýsingar um viðmiðunarumhverfi fyrir mælingar.  
-**Dæmi:** Fjórkjarna örgjörvi, 8 GB RAM, Windows 10, 50 % frítt minni, 70 % CPU tiltækt, tengihraði 30 Mbps.
+Alvöru útgáfa af Húa sem nemendur fara inn á í sinni tölvu í fyrstu viku kennsluviku. Þetta eru nýjir nemendur með lítinn samanburð og kunnáttu í lífinu. Allir nemendur sem kjósa að nota Húa í fyrstu viku, og skila inn verkefni eftir leiðsögn kennara
 
 ---
-
-
-✅ **Leiðbeining:**  
-Þegar þú skrifar þína eigin PLanguage kröfu skaltu velja einn gæðaeiginleika og fylla út alla reiti.  
-Markmiðið er að gera kröfuna **mælanlega, prófanlega og rekjanlega**.
