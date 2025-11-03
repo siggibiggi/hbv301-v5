@@ -1,8 +1,8 @@
 # Árekstrapör (3)
 
 ## Par 1: Security vs. Usability
-- **Árekstur (2–3 setningar):** …
-- **Forgangsröðun og rök:** …
+- **Árekstur (2–3 setningar):** Sterkar öryggiskröfur eins og tvíþætt auðkenning eða tímalæsing geta gert kerfið flóknara í notkun og lengt innskráningarferlið. Nemendur vilja fljótlega og þægilega leið inn en kerfið þarf að tryggja að aðeins réttir notendur komist að gögnum.
+- **Forgangsröðun og rök:** Forgangur er öryggi þar sem trúnaðargögn og verkefni verða að vera varin.
 
 ## Par 2: <A> vs. <B>
 - **Árekstur:** …
