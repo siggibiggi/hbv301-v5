@@ -1,8 +1,5 @@
 # Gæðakrafa lýst í PLanguage 
 
-> Þetta skjal sýnir hvernig á að skilgreina eina **gæðakröfu** með aðferðinni **P-Language** samkvæmt Wiegers & Beatty (kafli 14).  
-> Fyllið út reiti með upplýsingum um gæðaeiginleika og mælanleg markmið.
-
 ---
 
 ## Merkimiði (TAG)
